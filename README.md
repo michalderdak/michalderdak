@@ -3,7 +3,7 @@
 Data Engineer trying to transform the world with Machine Learning in a sustainable way.
 
 ### Connect With Me 
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](www.linkedin.com/in/michalderdak)
+<a href="www.linkedin.com/in/michalderdak" rel="LinkedIn">![](https://img.icons8.com/fluency/48/000000/linkedin.png)</a>
 
 <br />
 <br />

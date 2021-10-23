@@ -28,4 +28,4 @@ Data Engineer trying to transform the world with Machine Learning in a sustainab
 
 ### Github Stats
 
-![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalderdak&count_private=true&show_icons=true&hide_border=true&bg_color=000000)
+![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalderdak&count_private=true&show_icons=true&hide_border=true&theme=dark)

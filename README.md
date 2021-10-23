@@ -2,8 +2,8 @@
 
 Data Engineer trying to transform the world with Machine Learning in a sustainable way.
 
-### Connect With Me 
-<a href="www.linkedin.com/in/michalderdak" rel="LinkedIn">![](https://img.icons8.com/fluency/48/000000/linkedin.png)</a>
+### Connect with me on
+[<img align="left" alt="Michal Derdak | LinkedIn" width="48px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 
 <br />
 <br />
@@ -29,3 +29,6 @@ Data Engineer trying to transform the world with Machine Learning in a sustainab
 ### Github Stats
 
 ![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalderdak&count_private=true&show_icons=true&hide_border=true&theme=dark)
+
+
+[linkedin]: www.linkedin.com/in/michalderdak
